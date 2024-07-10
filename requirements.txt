@@ -4,3 +4,4 @@ stix2<3.0
 mkdocs
 mkdocs-exclude
 mkdocs-awesome-pages-plugin
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
